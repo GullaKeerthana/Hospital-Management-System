@@ -10,8 +10,8 @@ import java.util.Scanner;
 public class HosiptalManagementSystem {
 	
 	private static String url="jdbc:mysql://localhost:3306/Hospital";
-	private static String username="root";
-	private static String password="8210";
+	private static String username="root";// please use Your  mysql username 
+	private static String password="password";// please use Your  mysql passwrod
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -151,3 +151,4 @@ public class HosiptalManagementSystem {
 	}
 
 }
+
