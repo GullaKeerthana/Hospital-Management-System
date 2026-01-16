@@ -1,21 +1,17 @@
-# 🏥 Hospital Management System (Console-Based Application)
----
-
 ## 📌 Project Overview
-The Hospital Management System (HMS) is a console-based Java application designed to manage basic hospital operations efficiently.  
-It allows users to handle patient records, doctor details, appointments, and billing through a simple command-line interface.  
-This project focuses on strengthening Core Java, JDBC, and MySQL concepts and is ideal for academic and learning purposes.
+The **Hospital Management System (HMS)** is a **console-based Java application** designed to manage basic hospital operations efficiently.  
+It allows users to **add patients, view patient records, view doctor details, and book appointments** through a **menu-driven command-line interface**.  
+This project focuses on strengthening **Core Java, JDBC, and MySQL** concepts and is ideal for **academic and learning purposes**.
 
 ---
 
 ## 🚀 Features
-- 🧑‍🤝‍🧑 Add, View, Update & Delete Patient Records
-- 👨‍⚕️ Manage Doctor Information
-- 📅 Schedule Appointments
-- 💳 Billing Management
-- 🔐 Admin Login Authentication
-- 🗄️ MySQL Database Connectivity using JDBC
+- 🧑‍🤝‍🧑 Add Patient Records
+- 📄 View Patient Records
+- 👨‍⚕️ View Doctor Details
+- 📅 Book Appointments
 - ⌨️ Menu-driven Console Interface
+- 🗄️ MySQL Database Connectivity using JDBC
 
 ---
 
